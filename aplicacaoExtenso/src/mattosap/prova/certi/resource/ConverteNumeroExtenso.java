@@ -1,6 +1,6 @@
 package mattosap.prova.certi.resource;
 
-public class converteNumeroExtenso {
+public class ConverteNumeroExtenso {
 
 	static String umDoisDigitos[] = { "", "um ", "dois ", "tres ", "quatro ", "cinco ", "seis ", "sete ", "oito ",
 			"nove ", "dez ", "onze ", "doze ", "treze ", "quatorze ", "quinze ", "dezeseis ", "dezesete ", "dezoito ",

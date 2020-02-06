@@ -17,7 +17,7 @@ public class RecursoConverteNumeroExtenso {
 		try {
 			int numeroMostra = Integer.parseInt(numeroParamentro, 10);
 
-			return new JsonBean(converteNumeroExtenso.numeroExtenso(numeroMostra));
+			return new JsonBean(ConverteNumeroExtenso.numeroExtenso(numeroMostra));
 
 		} catch (NumberFormatException e) {
 
